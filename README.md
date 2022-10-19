@@ -3,5 +3,5 @@
 </p>
 <h2>💯 my socials</h2>
 <p align="left">
-  <a href="https:://discordapp.com/users/305337907466469387">Discord</a>
+  <a href="https://discordapp.com/users/305337907466469387">Discord</a>
 </p>
