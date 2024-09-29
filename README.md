@@ -1,1 +1,5 @@
-All repositories are private for now.
+- brand, product, social media, web etc designer
+- if I code i only usually do websites / webapps
+- contacts
+- 📨 email - syrnikov.school@gmail.com
+- 🛩️ telegram - @smmnikov
