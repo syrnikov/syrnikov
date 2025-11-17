@@ -1,5 +1,3 @@
-- brand, product, social media, web etc designer
-- if I code i only usually do websites / webapps
+- digital manager
 - contacts
-- 📨 email - syrnikov.school@gmail.com
-- 🛩️ telegram - @smmnikov
+- 📨 email - smmnikov@gmail.com
