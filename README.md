@@ -1,3 +1,1 @@
-- digital manager
-- contacts
-- 📨 email - smmnikov@gmail.com
+- discord: noxtrnall
